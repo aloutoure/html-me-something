@@ -1,0 +1,21 @@
+* {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    font-size: 14px;
+}
+
+img {
+    border-radius: 8px;
+    width: 200px;
+    margin: 6px 0;
+    display: block;
+    padding: 10px 20px;
+    height: auto;
+}
