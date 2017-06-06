@@ -2,8 +2,17 @@
     background-color: lightgray;
 }
 
+div {
+    width: 100%;
+}
+
 h1 {
     text-align: center;
+}
+
+#self {
+    text-align: center;
+    font-size: 14pzx;
 }
 
 p {
@@ -13,9 +22,9 @@ p {
 
 img {
     border-radius: 8px;
-    width: 200px;
-    margin: 6px 0;
+    width: 90%;
+    margin: 5px 10px;
     display: block;
-    padding: 10px 20px;
+    /*padding: 10px 20px;*/
     height: auto;
 }
